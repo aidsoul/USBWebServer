@@ -1,4 +1,4 @@
-## USBWebServer V8.6.2
+## USBWebServer
 
 Most light weight local portable web server with Apache, PHP, MySQL and PHPMyAdmin for Windows on the Web. Just unzip enywhere (including USB flash drive), run and start using.
 
@@ -11,12 +11,10 @@ Password: usbw
 
 ## Change log
 
-Update: Apache version - 2.4.43
-Update: PHP versions - 7.3.13 
-Update: PHPMyAdmin version - 4.95
-Update: MySQL version - 5.7.29
-Change: Set default port from 8080 to 80
-Change: Set default MySQL port from 3307 to 3306
+PHP 8.0.16
+Apache 2.4.52
+PhpMyAdmin 5.1.3
+MySQL 5.7.36
 
 ## Official Web Site
 
